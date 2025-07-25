@@ -1,0 +1,19 @@
+body {
+  background-color: aquamarine;
+  padding: 20px;
+}
+
+h1 {
+  padding: 10px;
+  background-color: white;
+  border-radius: 15px;
+}
+
+p {
+  background-color: chocolate;
+  color: black;
+  border-radius: 15px;
+  width: 200px;
+  height: 20px;
+  padding: 10px;
+}
